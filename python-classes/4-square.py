@@ -2,6 +2,7 @@
 """This module defines a Square class with private size attribute,
 getter/setter, area computation, and a method to print the square."""
 
+
 class Square:
     """Defines a square object with size validation and printing."""
 

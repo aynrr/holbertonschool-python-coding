@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""Module that defines a Square class with size validation."""
+
+
 class Square:
     """Class that defines a square with validated size"""
 
